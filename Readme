@@ -1,0 +1,6 @@
+Update url,username and password in DBHelper.java
+Creates JDBC connection
+Executes CRUD operations using statement
+
+TODO
+Executes CRUD operations using Prepared statement
