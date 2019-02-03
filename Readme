@@ -1,6 +1,11 @@
-Update url,username and password in DBHelper.java
+Description
 Creates JDBC connection
 Executes CRUD operations using statement
 
-TODO
+build and run
+Update url,username and password in DBHelper.java
+Add ojdbc6.jar
+Use eclipse to build and run
+
+Next steps
 Executes CRUD operations using Prepared statement
